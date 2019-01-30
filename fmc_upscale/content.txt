@@ -1,0 +1,9 @@
+The python code in fmc_upscale.py was created to run direct in the command line because it takes about of 7h to run. Actually we
+used the command "screen" in linux to start this program many times, each one for a different year, so we could have all the
+upscaled FMC data in one night.
+
+The following notebooks were used also:
+> unite_files.ipynb: Read the pickle files for each created with the fmc_upscale.py and save all data in a netCDF4 file;
+> fast_pearson.ipynb: Commpute the pearson linear correlation coefficient australia wide and create the maps for each soil
+    moisture layer;
+> stdev_oz_map.ipynb: Create the maps of standard deviation in each data series for each 5km pixel.
