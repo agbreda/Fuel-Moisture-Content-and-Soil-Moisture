@@ -1,0 +1,3 @@
+The notebook mann_kendal.ipynb have all the code to read data and apply the Mann-Kendal test for:
+> Yearly mean and Yearly standard deviation;
+> FMC, s0, ss, sd
