@@ -1,0 +1,1 @@
+The analysis for anomalies: x(t) - x_avg, wasn't significative. So there will be no extended description.
