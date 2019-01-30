@@ -1,0 +1,32 @@
+ID,Name,Region,Fuel class,Latitude,Longitude
+1,Majura,ACT,Grassland,-35.2778,149.1966
+2,Tidbinbilla,ACT,Grassland,-35.4191,148.9506
+3,Coppins crossing road,ACT,Grassland,-35.2787,149.0559
+4,Ballan,VIC,Grassland,-37.6352,144.2213
+5,Caldermeade_Park,VIC,Grassland,-38.2257,145.5633
+6,Kaduna_Park,VIC,Grassland,-38.0895,145.4307
+7,Murrayville grassland,VIC,Grassland,-35.2414,141.2247
+9,Parry lagoons,WA,Grassland,-15.5866,128.2338
+10,Silent grove sandstone,WA,Grassland,-17.1309,125.3739
+11,Silent grove black soil,WA,Grassland,-17.0629,125.2609
+12,Mount hart sandstone,WA,Grassland,-17.0297,125.1159
+13,Simcocks,WA,Grassland,-34.217,116.3831
+14,Lorna glen,WA,Grassland,-26.1629,121.5588
+15,RNP,NSW,Shrubland,-34.1333,151.0667
+16,RNP2,NSW,Shrubland,-34.1667,151.0333
+17,RNP3,NSW,Shrubland,-34.1333,151.1
+18,TNP,NSW,Forest,-34.2167,150.5333
+19,BCA,NSW,Forest,-34.3167,150.4667
+20,BCA2,NSW,Forest,-34.2667,150.5
+21,Cumberland plain woodland?,NSW,Forest,-33.6153,150.7237
+22,Tumbarumba forest?,NSW,Forest,-35.6566,148.1517
+24,Megalong,NSW,Forest,-33.6895,150.2342
+25,Blue mountain NP (Ridge),NSW,Forest,-33.6602,150.6177
+26,Blue mountain NP (Gully),NSW,Forest,-33.6578,150.6161
+27,Blue mountains NP (open woodland),NSW,Forest,-33.6107,150.6384
+28,Blue mountains NP (denser canopy),NSW,Forest,-33.7447,150.39
+31,Bago state forest,NSW,Forest,-35.6468,148.1483
+30,Wombat forest?,VIC,Forest,-37.4215,144.0938
+23,Tamboon state forest,VIC,Forest,-37.5679,149.1088
+29,Namadgi National Park 1,ACT,Forest,-35.5979,148.8165
+32,Namadgi National Park 2,ACT,Forest,-35.6071,148.8657
