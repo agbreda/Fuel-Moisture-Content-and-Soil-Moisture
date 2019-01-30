@@ -1,0 +1,1 @@
+The program R2_month_daily create the time series (4-daily and monthly) of FMC, s0, ss and sd for all 31 sites if know vegetation type.
